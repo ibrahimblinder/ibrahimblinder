@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ibrahimblinder
+- 👋 Hi, I’m @ibrahimelkhalil
 - 👀 I’m Software developer
 - 🌱 I’m currently working at skyloov
-- 💞️ I’m looking to collaborate on Skyloov Property Portal
+- 💞️ I’m already collaborating on Skyloov Property Portal
 - 📫 ibrahim.elkhalil@skyloov.com
 ---------------------------------
